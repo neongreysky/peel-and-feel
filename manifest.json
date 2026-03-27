@@ -1,0 +1,16 @@
+{
+  "name": "Peel & Feel",
+  "short_name": "Peel & Feel",
+  "description": "Versteh was wirklich hinter deinen Gefühlen steckt.",
+  "start_url": "/peel-and-feel/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
